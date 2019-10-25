@@ -1,4 +1,6 @@
-# Fork from Haoming Jiang's scripts.
+'''
+Fork from Haoming Jiang's scripts.
+'''
 # atom style
 
 ## packages
