@@ -1,5 +1,6 @@
 
-Credit to Haoming Jiang's scripts. jianghm.ustc@gmail.com
+Fork from Haoming Jiang's scripts.
+https://github.com/HMJiangGatech
 
 # atom style
 
