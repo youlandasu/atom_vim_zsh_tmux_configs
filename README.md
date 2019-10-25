@@ -1,6 +1,6 @@
-```
-Fork from Haoming Jiang's scripts.
-```
+
+Credit to Haoming Jiang's scripts. jianghm.ustc@gmail.com
+
 # atom style
 
 ## packages
